@@ -1,0 +1,6 @@
+// Base Face
+var Face = svg.append('circle').attr('r', 30).attr('cx', 50).attr('cy', 50).attr('fill', brown);
+
+// Eyes
+var leftEye = svg.append('circle').attr('r', 6).attr('cx', 53).attr('cy', 55).attr('fill', white);
+var leftEye = svg.append('circle').attr('r', 6).attr('cx', 53).attr('cy', 55).attr('fill', white);
